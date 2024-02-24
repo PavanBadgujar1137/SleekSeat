@@ -1,6 +1,6 @@
 # SleekSeat Project 🪑
 
-SleekSeat is a web application for managing seats in a venue. It is built with HTML, CSS, and JavaScript.
+SleekSeat is a web application for managing seats in a venue. It is built with HTML and CSS.
 
 ## Live Demo 🌐
 
